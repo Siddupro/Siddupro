@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning data science and maths
 - 💞️ I’m looking to collaborate on coding projects on python
-- 📫 How to reach me : insta apex.siddu_007
+- 📫 How to reach me : insta atharv.siddu_007
 - 😄 Pronouns: siddu
 - ⚡ Fun fact: studying is fun
 
